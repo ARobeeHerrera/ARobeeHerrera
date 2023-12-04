@@ -4,7 +4,7 @@ I'm a driven person with a lot of experience in database administration and deve
 
 ## Education
 
-- **BS Information Technology**
+- **BS Computer Science**
   [New Era University](https://www.neu.edu.ph/)
   (2021 - Present)
 
