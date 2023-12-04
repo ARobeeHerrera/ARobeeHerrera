@@ -1,4 +1,4 @@
-# Hello, I'm Angelo Robee Herrera! 👋
+# Hello, I'm Angelo Robee M. Herrera! 👋
 
 I'm a driven person with a lot of experience in database administration and development. I enjoy taking on challenging issues and developing sophisticated answers. I enrolled in the BS Computer Science program to start my career in the computer industry.
 
