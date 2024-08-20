@@ -6,7 +6,7 @@ I'm a driven person with a lot of experience in database administration and deve
 
 - **BS Computer Science**
   [New Era University](https://www.neu.edu.ph/)
-  (2024 - Present)
+  (2022 - Present)
 
 ## Certifications
 
