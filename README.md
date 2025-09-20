@@ -23,7 +23,7 @@ I'm a driven person with a lot of experience in database administration and deve
 
 ## How to Reach Me
 
-- LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/robee-herrera/)
 - Email: [bee.herrera215@gmail.com](mailto:bee.herrera215@gmail.com)
 
 Feel free to connect and explore opportunities together!
