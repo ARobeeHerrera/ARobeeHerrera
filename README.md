@@ -17,9 +17,9 @@ I'm a driven person with a lot of experience in database administration and deve
 
 ## Skill Sets
 
-- **Programming:** Java, Javascript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Programming:** Java, Javascript, Typescript, Python, SQL, HTML, CSS
+- **Databases:** IBM DB2 Cloud, Supabase
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, Tableau, 
 
 ## How to Reach Me
 
